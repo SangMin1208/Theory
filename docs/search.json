@@ -4,7 +4,7 @@
     "href": "posts/[Theory #01].html#hi",
     "title": "[Theory #01] Linear Algebra for LLMS: From SVD to Low-Rank Approximation",
     "section": "hi",
-    "text": "hi"
+    "text": "hi\n\nprint('hello')\n\nhello"
   },
   {
     "objectID": "index.html",
