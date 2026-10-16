@@ -1,8 +1,8 @@
 [
   {
-    "objectID": "posts/01.??.html#hi",
-    "href": "posts/01.??.html#hi",
-    "title": "1. ???",
+    "objectID": "posts/[Theory #01].html#hi",
+    "href": "posts/[Theory #01].html#hi",
+    "title": "[Theory #01] Linear Algebra for LLMS: From SVD to Low-Rank Approximation",
     "section": "hi",
     "text": "hi"
   },
@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Theory",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMar 10, 2027\n\n\n1. ???\n\n\n이상민 \n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMar 10, 2027\n\n\n[Theory #01] Linear Algebra for LLMS: From SVD to Low-Rank Approximation\n\n\n이상민 \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
